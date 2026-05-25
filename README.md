@@ -64,4 +64,5 @@ The device combines precise motion detection, quaternion-based orientation track
 
 **Nekha Sudheer**  
 **Course:** Biomechatronics  
-**Vellore Institute of Technology, Chennai**
+**Vellore Institute of Technology, Chennai**  
+**Project Duration:** Jan 2025 – April 2025
