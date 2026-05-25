@@ -1,4 +1,5 @@
 # Tremor-Compensating Spoon for Parkinson's Patients
+
 A biomechatronic smart assistive device that stabilizes a spoon by actively counteracting involuntary hand tremors experienced by individuals with Parkinson's disease during eating activities — demonstrating human-centered rehabilitation engineering applications.
 
 ---
@@ -10,6 +11,7 @@ Parkinson's disease affects motor control and leads to hand tremors that make si
 The device combines precise motion detection, quaternion-based orientation tracking, Kalman filtering, and responsive servo actuation to minimize the effects of tremors during mealtime.
 
 ---
+
 ## Features
 
 - Real-time tremor detection using an IMU sensor (MPU6050)
@@ -55,3 +57,11 @@ The device combines precise motion detection, quaternion-based orientation track
 | 6       | Power Supply         | 3.7V Li-ion Battery (18650)                    |
 | 7       | Power Regulation     | TP4056 Charging Module + Voltage Regulator     |
 | 8       | User Control         | Toggle Switch                                  |
+
+---
+
+## Developed By
+
+**Nekha Sudheer**  
+**Course:** Biomechatronics  
+**Vellore Institute of Technology, Chennai**
